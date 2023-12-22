@@ -4,8 +4,8 @@
 	import Congratulations from "../components/Congratulations.svelte";
 	import foto1 from "../lib/images/foto1.jpg";
 
-	//const targetDate = new Date("2023-12-26T00:00:00"); // 26 de diciembre
-	const targetDate = new Date("2023-12-22T17:30:30"); // 26 de diciembre
+	const targetDate = new Date("2023-12-26T00:00:00"); // 26 de diciembre
+	//const targetDate = new Date("2023-12-22T17:30:30"); // 26 de diciembre
 
 	let remainingTime = {};
 
