@@ -79,7 +79,10 @@
 			{/each}
 			<Congratulations />
 			<figure class="wave">
-				<img src={foto1} alt="amigos" />
+				<img
+					src="https://pedelriomarron.github.io/cumple_cristian/_app/immutable/assets/foto1.bOP47yIb.jpg"
+					alt="amigos"
+				/>
 				<figcaption>Foto de amigos</figcaption>
 			</figure>
 			<footer>
